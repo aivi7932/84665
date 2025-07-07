@@ -40,4 +40,4 @@ Sukebei Nyaa
 
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/aivi7932/84665 ）</span>
